@@ -61,7 +61,7 @@ author: "epidrome"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: ""
+url: "/pibookgr"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
