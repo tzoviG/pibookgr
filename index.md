@@ -7,7 +7,7 @@ widget-1:
   url: /biography/
 widget-2:
   title: Εικόνες
-  url: /gallery/
+  url: gallery/
 widget-3: 
   title: Μελέτες περίπτωσης
   url: /case-study/
