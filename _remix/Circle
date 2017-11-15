@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Button
+title: Circle
 header: no
 categories:
-  - definition
+  - paint
   - easy
 tags:
-  - button
+  - draw
 ---
 
 Διαδραστικό παράδειγμα κώδικα που αφήνει στάμπες με το πάτημα του κουμπιού του ποντικιού. Με παρατεταμένο πάτημα του κουμπιού αφήνει συνεχόμενα ίχνη.
